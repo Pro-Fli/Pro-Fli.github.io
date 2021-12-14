@@ -1,4 +1,4 @@
-# PROJECT PRO-FLI :
+# PROJECT PRO-FLI
 
 ## This open-source community-driven project is aimed at 4 major goals:
 
