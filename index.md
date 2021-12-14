@@ -1,6 +1,6 @@
 # PROJECT PRO-FLI
 
-## This open-source community-driven project is aimed at 4 major goals:
+This open-source community-driven project is aimed at 4 major goals:
 
 ### Reduce the carbon emissions from flights:
 
