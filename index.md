@@ -1,5 +1,7 @@
 # PROJECT PRO-FLI
 
+### "THIS PROJECT IS CURRENTLY UNDER DEVELOPMENT"
+
 This open-source community-driven project is aimed at 4 major goals:
 
 ### Reduce the carbon emissions from flights:
